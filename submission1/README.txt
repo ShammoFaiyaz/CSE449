@@ -1,13 +1,13 @@
-Link to unlisted YouTube video:
+Link to unlisted YouTube video: https://youtu.be/uv_9DvgP3pY
 
 
-Public link to the slide (Anyone on the internet can view without login):
+Public link to the slide (Anyone on the internet can view without login): https://docs.google.com/presentation/d/1lWOKWfwiw7NLuxSsucoabSif24nLpmjPQKSpruxH8Zk/edit?usp=sharing
 
 
-Paper title:
+Paper title: Research on high performance computing of power system based on machine learning algorithm
 
 
-Link to the paper:
+Link to the paper: https://ieeexplore.ieee.org/abstract/document/9148442
 
 
 Group Number:
