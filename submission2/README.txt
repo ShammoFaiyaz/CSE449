@@ -1,13 +1,13 @@
 Link to unlisted YouTube video:
 
 
-Public link to the slide (Anyone on the internet can view without login):
+Public link to the slide (Anyone on the internet can view without login): https://docs.google.com/presentation/d/1lDT_a-u4ZHeLBOWXrIK3R-pe_MnARGsTkFCIWASEiEs/edit?usp=sharing
 
 
-Paper title:
+Paper title: High Performance Computing Based on a Smart Grid Approach
 
 
-Link to the paper:
+Link to the paper: https://ieeexplore.ieee.org/abstract/document/7968628
 
 
 Group Number:
