@@ -8,7 +8,7 @@ Public link to the slide (Anyone on the internet can view without login):
 https://docs.google.com/presentation/d/1yeAU1dd8EK3Ht-K1z3HSWsO_dVWzYUdUBnW3zZ2zcOM/edit?usp=sharing
 
 Project title:
-Climate Prediction and Simulation  Using Distributed Learning
+Climate Prediction and Simulation Using Distributed Learning
 
 Group Number:
 2
